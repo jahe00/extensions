@@ -19329,15 +19329,15 @@
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
     "apk": "tachiyomi-id.komikcast-v1.4.63.apk",
     "lang": "id",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.la"
+        "baseUrl": "https://komikcast01.com"
       }
     ]
   },
